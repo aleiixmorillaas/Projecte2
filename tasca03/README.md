@@ -10,6 +10,7 @@ Tenen un **portàtil amb Zorin OS** (un Linux amb entorn gràfic) que usava habi
 El problema és que **ha oblidat la contrasenya** i és necessari poder recuperar l’accés perquè hi ha **documentació molt important** que cal recuperar.  
 
 Per evitar que una acció catastròfica pugui danyar l’equip original, **ens han clonat el disc en un disc virtual** perquè hi treballeu.
+<img width="192" height="276" alt="image" src="https://github.com/user-attachments/assets/fbdf3ec3-ce42-4825-a653-f43fa610d952" />
 
 ---
 

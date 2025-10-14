@@ -8,6 +8,7 @@ L’empresa **TecnoGestió S.L.**, dedicada a la gestió documental i assessoram
 - 1 router d’accés a Internet  
 
 A causa de les constants incidències amb el **subministrament elèctric**, la direcció ha decidit adquirir un **SAI (Sistema d’Alimentació Ininterrompuda)** per garantir la continuïtat del servei i protegir els equips.
+<img width="269" height="266" alt="image" src="https://github.com/user-attachments/assets/dae58d4c-5910-4d37-a018-637d08edc808" />
 
 S’han posat en contacte amb l’empresa on esteu fent l’estada, i el vostre responsable us ha encarregat **realitzar l’estudi i la tria del SAI adequat.**
 
